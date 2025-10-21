@@ -43,3 +43,11 @@ Pagination is implemented manually using info.next from the API response
 
 ## 📱 Screenshots
 
+
+![WhatsApp Image 2025-10-21 at 22 43 39](https://github.com/user-attachments/assets/099eeba7-66c7-4d16-974d-a78fed121812)
+
+
+![WhatsApp Image 2025-10-21 at 22 43 39 (2)](https://github.com/user-attachments/assets/1d90ea56-74d8-4ff4-9d93-c3ac9bfdca63)
+
+![WhatsApp Image 2025-10-21 at 22 43 39 (1)](https://github.com/user-attachments/assets/9ca3026f-f2bb-4d4c-b7d0-da23a6f0a9aa)
+
